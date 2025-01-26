@@ -165,6 +165,8 @@
   },
   "active": "24a544658520ee60",
   "lastOpenFiles": [
+    "docs/index.html",
+    "index.md",
     "docs/style.css",
     "docs/reasoning/experiments/index.html",
     "docs/reasoning/experiments",
@@ -175,7 +177,6 @@
     "dist/reasoning/experiments",
     "dist/reasoning",
     "dist",
-    "build.sh",
     "reasoning/index.md",
     "reasoning-experiments/index.md",
     "docs/reasoning-experiments/index.md",
