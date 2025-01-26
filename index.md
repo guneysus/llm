@@ -1,3 +1,5 @@
 ## Table of Contents
 
-- [reasoning/experiments/](reasoning/experiments/)
+
+### Reasoning
+- [Reasoning experiments](reasoning/experiments/)
