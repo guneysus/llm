@@ -165,13 +165,22 @@
   },
   "active": "24a544658520ee60",
   "lastOpenFiles": [
+    "docs/style.css",
+    "docs/reasoning/experiments/index.html",
+    "docs/reasoning/experiments",
+    "docs/reasoning",
+    "docs",
+    "dist/style.css",
+    "dist/reasoning/experiments/index.html",
+    "dist/reasoning/experiments",
+    "dist/reasoning",
+    "dist",
+    "build.sh",
+    "reasoning/index.md",
+    "reasoning-experiments/index.md",
     "docs/reasoning-experiments/index.md",
     "docs/reasoning-experiments/README.md",
-    "docs/reasoning-experiments",
-    "docs",
     "public/reasoning-experiments/README.md",
-    "public/reasoning-experiments/index.md",
-    "public/reasoning-experiments",
-    "public"
+    "public/reasoning-experiments/index.md"
   ]
 }
