@@ -9,6 +9,10 @@ Got some question ideas from ChatGPT to test reasoning models.
 
 **[Prompt](https://chatgpt.com/share/67967ca0-57b8-8001-8020-19705c2290cb)**
 
+
+[Compare DeepSeek-R1 and OpenAI-o1 using RAG, Akshay Pachaar January 2025](https://lightning.ai/akshay-ddods/studios/compare-deepseek-r1-and-openai-o1-using-rag?view=public&section=featured)
+
+
 > how can I test/benchmark reasoning models. Give me some prompts to compare outcomes of models. The prompt better to be software development/tech
 
 
