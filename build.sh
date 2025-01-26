@@ -29,7 +29,6 @@ find . -name "index.md" | while read -r file; do
         -t html \
         -s \
         -o "docs/$dir/index.html" \
-        --metadata title="Documentation" \
         --css="style.css" \
         --toc \
         --toc-depth=3
