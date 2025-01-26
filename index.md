@@ -1,5 +1,4 @@
-## Table of Contents
+# LLM & Experiments
 
-
-### Reasoning
+## Reasoning
 - [Reasoning experiments](reasoning/experiments/)
