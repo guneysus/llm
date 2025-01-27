@@ -5,4 +5,4 @@
 
 
 ## Image Generation
-- [Image Generation with QWEN](/experiments/image-generation/qwen/)
+- [Image Generation with QWEN](experiments/image-generation/qwen/)
