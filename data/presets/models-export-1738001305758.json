@@ -1,0 +1,567 @@
+[
+    {
+        "id": "internlm2:7b",
+        "name": "internlm2:7b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "internlm2:7b",
+            "model": "internlm2:7b",
+            "modified_at": "2025-01-27T15:29:22.0117833+03:00",
+            "size": 4453257985,
+            "digest": "5050e36678abc59da7cfdfd29744f2c45acf3ca21e58c106220e84ba06d36747",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "internlm2",
+                "families": [
+                    "internlm2"
+                ],
+                "parameter_size": "7.7B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "reader-lm:1.5b",
+        "name": "reader-lm:1.5b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "reader-lm:1.5b",
+            "model": "reader-lm:1.5b",
+            "modified_at": "2025-01-27T15:26:43.8479559+03:00",
+            "size": 934966934,
+            "digest": "33da2b9e0afe889906c8cd52bd8957e5bd56747b6b7787206f170bbd5184092a",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "1.5B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "reader-lm:0.5b",
+        "name": "reader-lm:0.5b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "reader-lm:0.5b",
+            "model": "reader-lm:0.5b",
+            "modified_at": "2025-01-27T15:26:36.8484709+03:00",
+            "size": 352166873,
+            "digest": "5142df58664597e813dc8690663e3854f7f7bbb0601604f747677ce856043ccc",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "494.03M",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "llama3.1:8b",
+        "name": "llama3.1:8b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "llama3.1:8b",
+            "model": "llama3.1:8b",
+            "modified_at": "2025-01-27T14:35:21.3960582+03:00",
+            "size": 4920753328,
+            "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "llama",
+                "families": [
+                    "llama"
+                ],
+                "parameter_size": "8.0B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "qwen2.5-coder:1.5b",
+        "name": "qwen2.5-coder:1.5b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "qwen2.5-coder:1.5b",
+            "model": "qwen2.5-coder:1.5b",
+            "modified_at": "2025-01-27T14:31:09.3633328+03:00",
+            "size": 986062047,
+            "digest": "6d3abb8d2d5312625fcd99a442977923aca9afa8a9e0a73c01000f48082d9d94",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "1.5B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "qwen2.5:latest",
+        "name": "qwen2.5:latest",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "qwen2.5:latest",
+            "model": "qwen2.5:latest",
+            "modified_at": "2025-01-27T13:47:45.6102907+03:00",
+            "size": 4683087332,
+            "digest": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "7.6B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "deepseek-r1:8b",
+        "name": "deepseek-r1:8b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "deepseek-r1:8b",
+            "model": "deepseek-r1:8b",
+            "modified_at": "2025-01-21T16:55:11.0196124+03:00",
+            "size": 4920738407,
+            "digest": "28f8fd6cdc677661426adab9338ce3c013d7e69a5bea9e704b364171a5d61a10",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "llama",
+                "families": [
+                    "llama"
+                ],
+                "parameter_size": "8.0B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "id": "deepseek-r1:1.5b",
+        "name": "deepseek-r1:1.5b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "deepseek-r1:1.5b",
+            "model": "deepseek-r1:1.5b",
+            "modified_at": "2025-01-21T16:48:02.245461+03:00",
+            "size": 1117322599,
+            "digest": "a42b25d8c10a841bd24724309898ae851466696a7d7f3a0a408b895538ccbc96",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "1.8B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974424,
+        "created_at": 1737963196
+    },
+    {
+        "id": "mistral:latest",
+        "name": "mistral:latest",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "mistral:latest",
+            "model": "mistral:latest",
+            "modified_at": "2025-01-16T18:01:22.9434361+03:00",
+            "size": 4113301824,
+            "digest": "f974a74358d62a017b37c6f424fcdf2744ca02926c4f952513ddf474b2fa5091",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "llama",
+                "families": [
+                    "llama"
+                ],
+                "parameter_size": "7.2B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737467018,
+        "created_at": 1737372773
+    },
+    {
+        "id": "incept5/llama3.1-claude:latest",
+        "name": "incept5/llama3.1-claude:latest",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "incept5/llama3.1-claude:latest",
+            "model": "incept5/llama3.1-claude:latest",
+            "modified_at": "2025-01-15T15:34:54.9504204+03:00",
+            "size": 4661237026,
+            "digest": "4ba850d59c62aec94b7725677b98342e84dc2d450a4ffa42e7b3ff60c16a729f",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "llama",
+                "families": [
+                    "llama"
+                ],
+                "parameter_size": "8.0B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737462479,
+        "created_at": 1737372771
+    },
+    {
+        "id": "qwen:4b",
+        "name": "qwen:4b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "qwen:4b",
+            "model": "qwen:4b",
+            "modified_at": "2025-01-15T15:27:02.4683705+03:00",
+            "size": 2330093361,
+            "digest": "d53d04290064542e5f12ccfb0055785b7751264dc6bbb06c04c559c57e07496a",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "4B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974430,
+        "created_at": 1737372775
+    },
+    {
+        "id": "qwen:1.8b",
+        "name": "qwen:1.8b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "qwen:1.8b",
+            "model": "qwen:1.8b",
+            "modified_at": "2025-01-15T15:25:14.463169+03:00",
+            "size": 1120243281,
+            "digest": "b6e8ec2e7126ea21d1817e28ad69a2bebdd5547a9af223fbb927054dc66fc4ce",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "2B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974429,
+        "created_at": 1737372774
+    },
+    {
+        "id": "qwen:0.5b",
+        "name": "qwen:0.5b",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "qwen:0.5b",
+            "model": "qwen:0.5b",
+            "modified_at": "2025-01-15T15:24:08.8582662+03:00",
+            "size": 394998579,
+            "digest": "b5dc5e784f2a3ee1582373093acf69a2f4e2ac1710b253a001712b86a61f88bb",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "qwen2",
+                "families": [
+                    "qwen2"
+                ],
+                "parameter_size": "620M",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974429,
+        "created_at": 1737372774
+    },
+    {
+        "id": "phi3:medium",
+        "name": "phi3:medium",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "phi3:medium",
+            "model": "phi3:medium",
+            "modified_at": "2024-12-10T20:48:09.2344242+03:00",
+            "size": 7897127458,
+            "digest": "cf611a26b048362dce8f39ef9bb1c9c33c06b70408fe88eb2286253c707d7471",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "phi3",
+                "families": [
+                    "phi3"
+                ],
+                "parameter_size": "14.0B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737963205,
+        "created_at": 1737372773
+    },
+    {
+        "id": "gemma2:latest",
+        "name": "gemma2:latest",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "gemma2:latest",
+            "model": "gemma2:latest",
+            "modified_at": "2024-12-10T20:47:46.2058492+03:00",
+            "size": 5443152417,
+            "digest": "ff02c3702f322b9e075e9568332d96c0a7028002f1a5a056e0a6784320a4db0b",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "gemma2",
+                "families": [
+                    "gemma2"
+                ],
+                "parameter_size": "9.2B",
+                "quantization_level": "Q4_0"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974426,
+        "created_at": 1737372770
+    },
+    {
+        "id": "llama3.2:latest",
+        "name": "llama3.2:latest",
+        "object": "model",
+        "created": 1738001303,
+        "owned_by": "ollama",
+        "ollama": {
+            "name": "llama3.2:latest",
+            "model": "llama3.2:latest",
+            "modified_at": "2024-12-10T20:34:08.4829396+03:00",
+            "size": 2019393189,
+            "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+            "details": {
+                "parent_model": "",
+                "format": "gguf",
+                "family": "llama",
+                "families": [
+                    "llama"
+                ],
+                "parameter_size": "3.2B",
+                "quantization_level": "Q4_K_M"
+            },
+            "urls": [
+                0
+            ]
+        },
+        "user_id": "9d2c1061-77c4-4bd0-9c88-7d6d8df6ef29",
+        "base_model_id": null,
+        "params": {
+        },
+        "meta": {
+            "profile_image_url": "/static/favicon.png",
+            "description": null,
+            "capabilities": null
+        },
+        "access_control": {
+        },
+        "is_active": true,
+        "updated_at": 1737974428,
+        "created_at": 1737372771
+    }
+]
